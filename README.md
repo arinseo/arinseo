@@ -26,12 +26,8 @@
 
 ---
 📫 برای همکاری و مشاوره با من در ارتباط باشید
-## آمار فعالیت من 📊
-![آمار گیت‌هاب من](https://github-readme-stats.vercel.app/api?username=arinseo&show_icons=true&theme=radical&locale=fa)
 
-## زبان‌های برنامه‌نویسی 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arinseo&layout=compact&theme=radical&locale=fa)
-
+---
 ## مهارت‌های فنی 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/-Artificial_Intelligence-FF6F61?style=flat-square&logo=ai&logoColor=white)
